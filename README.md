@@ -1,7 +1,7 @@
 # Kraina Słodyczy - Website for a person who bakes cakes and other sweets to order
 
 <div align="center">
-  <img width="50%" src="./public/logo.png"/>
+  <img width="30%" src="./public/logo.png"/>
 </div>
 
 ## Table of Contents
