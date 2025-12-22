@@ -87,7 +87,7 @@ const products = [
     title: "Torty",
     description:
       "Wyjątkowe torty na każdą okazję - urodziny, rocznice, chrzciny i inne imprezy okolicznościowe. Każdy projekt jest unikalny i dostosowany do Twoich życzeń.",
-    image: "/torty/tort14.webp",
+    image: "/torty/tort25.webp",
   },
   {
     title: "Bezy",

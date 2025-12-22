@@ -7,7 +7,7 @@ const images = [
   "/torty/tort2.webp",
   "/slodkosci/slodkosci1.jpg",
   "/slodkosci/slodkosci20.jpg",
-  "/torty/tort11.webp",
+  "/torty/tort21.webp",
   "torty/tort17.jpg"
 ]
 
