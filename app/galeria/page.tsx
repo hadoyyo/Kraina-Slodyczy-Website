@@ -46,6 +46,16 @@ const galleryImages: GalleryItem[] = [
   { src: "/torty/tort29.webp", category: "torty" },
   { src: "/torty/tort30.webp", category: "torty" },
   { src: "/torty/tort31.webp", category: "torty" },
+  { src: "/torty/tort32.webp", category: "torty" },
+  { src: "/torty/tort33.webp", category: "torty" },
+  { src: "/torty/tort34.webp", category: "torty" },
+  { src: "/torty/tort35.webp", category: "torty" },
+  { src: "/torty/tort36.webp", category: "torty" },
+  { src: "/torty/tort37.webp", category: "torty" },
+  { src: "/torty/tort38.webp", category: "torty" },
+  { src: "/torty/tort39.webp", category: "torty" },
+  { src: "/torty/tort40.webp", category: "torty" },
+  { src: "/torty/tort41.webp", category: "torty" },
 
   { src: "/slodkosci/slodkosci1.jpg", category: "słodkości" },
   { src: "/slodkosci/slodkosci2.jpg", category: "słodkości" },
@@ -69,7 +79,12 @@ const galleryImages: GalleryItem[] = [
   { src: "/slodkosci/slodkosci20.jpg", category: "słodkości" },
   { src: "/slodkosci/slodkosci21.jpg", category: "słodkości" },
   { src: "/slodkosci/slodkosci22.jpg", category: "słodkości" },
-  { src: "/slodkosci/slodkosci23.jpg", category: "słodkości" }
+  { src: "/slodkosci/slodkosci23.jpg", category: "słodkości" },
+  { src: "/slodkosci/slodkosci24.jpeg", category: "słodkości" },
+  { src: "/slodkosci/slodkosci25.jpeg", category: "słodkości" },
+  { src: "/slodkosci/slodkosci26.jpeg", category: "słodkości" },
+  { src: "/slodkosci/slodkosci27.jpeg", category: "słodkości" },
+  { src: "/slodkosci/slodkosci28.jpeg", category: "słodkości" }
 ]
 
 type CategoryFilter = "wszystko" | "torty" | "słodkości"
